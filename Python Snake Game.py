@@ -1,16 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Jul 28 17:56:41 2019
-
 @author: shiva
-"""
 
-# -*- coding: utf-8 -*-
 """
-Created on Sun Jul 28 13:41:56 2019
+#**************************************** --Developed and created by SHIVAM PRAKASH-- **********************************************# 
 
-@author: shiva
-"""
 # All module imports--
 import turtle
 import random
@@ -289,6 +283,8 @@ while True:
 scr.exitonclick()
 
 #**************************************************END OF PROGRAM****************************************************#
+
+#**************************************** --Developed and created by SHIVAM PRAKASH-- **********************************************#
 
 
 
