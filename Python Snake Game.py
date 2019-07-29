@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-@author: shiva
+
+@author: Shivam Prakash (https://github.com/ishiprak)
 
 """
 #**************************************** --Developed and created by SHIVAM PRAKASH-- **********************************************# 
